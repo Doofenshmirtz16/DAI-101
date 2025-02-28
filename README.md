@@ -1,6 +1,9 @@
 # DAI-101
+
 Assignment-1
+
 📌 Project Overview
+
 This project performs Exploratory Data Analysis (EDA) on an IMDb movie dataset, aiming to uncover insights about movie trends, financial performance, and critical reception. The analysis includes data cleaning, statistical tests, and visualizations to explore relationships between variables.
 
 📂 Dataset
